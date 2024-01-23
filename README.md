@@ -5,6 +5,7 @@
 <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawgio)](https://github.com/anuraghazra/github-readme-stats)--->
 
 - 🔭 I’m currently working on [11l Editor](https://github.com/fawgio/fawgio/11l-editor)
+- 💬 I need help with [this issues](https://github.com/fawgio/11l-editor/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 - 🌱 I’m currently learning [11l](http://11l-lang.org/), Java and Web
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/gmail-asbulba09%40gmail.com-blue)](mailto:asbulba09@gamil.com)
 - 🌐 I speak English and Russian
