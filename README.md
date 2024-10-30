@@ -12,7 +12,7 @@
 
 I [helped](http://bulba.untergrund.net/news_e.htm) create Vortex Tracker II 1.0 beta 24
 
-[Left Sock](left-sock.itch.io) game studio, where I am making games currently
+[Left Sock](https://left-sock.itch.io) game studio, where I am making games currently
 
 My repositories ⬇
 
